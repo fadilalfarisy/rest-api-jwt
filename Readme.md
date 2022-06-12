@@ -104,7 +104,7 @@ Untuk memeriksa access token masih berlaku atau tidak
 ```json
 {
     "data": {
-        "username": "user123,
+        "username": "user123",
         "iat": 1655005356,
         "exp": 1655008956
     }
